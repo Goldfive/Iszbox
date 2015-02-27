@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="engine.h" />
+    <ClInclude Include="memory\shared_ptr.h">
+      <Filter>memory</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="engine.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{0281149c-eaab-4b20-ae26-2b56c3621915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="memory">
+      <UniqueIdentifier>{93f7a634-2af6-41f4-8a84-21b2514ce5fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

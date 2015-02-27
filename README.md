@@ -1,2 +1,0 @@
-# Iszbox
-First game engine.
