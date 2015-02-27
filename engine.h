@@ -1,0 +1,7 @@
+// DO NOT FUCKING MESS WITH HOW THE INCLUDES ARE ORDERED -> IT MATTERS
+#include <dxgi.h>
+#include <d3d11.h>
+#include <d3dcommon.h>
+#include <D3DX10.h>
+#include <D3DX11.h>
+// DO NOT FUCKING MESS WITH HOW THE INCLUDES ARE ORDERED -> IT MATTERS
